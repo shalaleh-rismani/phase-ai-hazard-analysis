@@ -13,11 +13,12 @@ permalink: /paper.html
 
 This paper translates **System Theoretic Process Analysis (STPA)** for analyzing AI development and operation processes. It introduces **PHASE**, a process-oriented hazard analysis guideline for AI systems.
 
+
 <div class="button-row">
-  <a class="button" href="{{ '/assets/paper.pdf' | relative_url }}">Download PDF</a>
+  <a class="button" href="{{ '/assets/paper.pdf' | relative_url }}" target="_blank">Download Paper PDF</a>
+  <a class="button" href="{{ '/assets/supplementary-material.pdf' | relative_url }}" target="_blank">Download Supplementary Material</a>
   <a class="button" href="{{ '/citation.html' | relative_url }}">Citation</a>
 </div>
-
 ---
 
 ## Abstract
