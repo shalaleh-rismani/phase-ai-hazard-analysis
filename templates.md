@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Templates
 permalink: /templates.html
 ---
 
