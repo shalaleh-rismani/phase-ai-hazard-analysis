@@ -9,7 +9,13 @@ layout: home
 
 **From Silos to Systems: Process-Oriented Hazard Analysis for AI Systems**
 
-**Authors:** Shalaleh Rismani, Roel Dobbe, and AJung Moon
+**Authors:** 
+
+Shalaleh Rismani, Postdoctoral Researcher, McGill University, Montreal, Canada 
+
+Roel Dobbe, Assistant Professor, Delft University of Technology, Delft, The Netherlands
+ 
+AJung Moon, Associate Professor, McGill University, Montreal, Canada 
 
 **PHASE** is a guideline for applying **System Theoretic Process Analysis (STPA)** to Artificial Intelligence systems.
 
