@@ -1,0 +1,18 @@
+title: PHASE
+description: Process-oriented Hazard Analysis for AI Systems
+theme: minima
+
+baseurl: "/phase-ai-hazard-analysis"
+url: "https://shalaleh-rismani.github.io"
+
+header_pages:
+  - paper.md
+  - phase-process.md
+  - case-studies.md
+  - templates.md
+  - citation.md
+
+markdown: kramdown
+
+minima:
+  skin: classic
