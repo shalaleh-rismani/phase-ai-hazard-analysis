@@ -1,6 +1,5 @@
 ---
 layout: page
-title: PHASE Process
 permalink: /phase-process.html
 ---
 
