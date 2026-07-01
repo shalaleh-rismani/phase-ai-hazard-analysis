@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Citation
 permalink: /citation.html
 ---
 
