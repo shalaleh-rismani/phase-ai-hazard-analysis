@@ -12,10 +12,3 @@ The GitHub Pages site includes:
 - templates
 - citation information
 
-## Local preview
-
-To preview locally with Jekyll:
-
-```bash
-bundle install
-bundle exec jekyll serve
