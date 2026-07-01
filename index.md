@@ -20,6 +20,8 @@ It supports system-level hazard analysis by helping analysts examine not only mo
   <a class="button" href="{{ '/assets/supplementary-material.pdf' | relative_url }}" target="_blank">Supplementary Material</a>
   <a class="button" href="{{ '/phase-process.html' | relative_url }}">View PHASE Process</a>
   <a class="button" href="{{ '/case-studies.html' | relative_url }}">Explore Case Studies</a>
+  <a class="button" href="{{ '/templates.html' | relative_url }}">Use Templates</a>
+
 </div>
 ---
 
