@@ -17,10 +17,7 @@ Roel Dobbe, Assistant Professor, Delft University of Technology, Delft, The Neth
  
 AJung Moon, Associate Professor, McGill University, Montreal, Canada 
 
-PHASE adapts [System Theoretic Process Analysis (STPA)](https://psas.scripts.mit.edu/home/get_file.php?name=STPA_handbook.pdf), a system safety hazard analysis method developed by Nancy Leveson and John Thomas, for AI systems.
-
-PHASE adapts the four STPA steps to address AI-specific challenges such as model opacity, autonomy, capability uncertainty, and output complexity.
-It supports system-level hazard analysis by helping analysts examine not only models and datasets, but also the broader development and operation processes in which AI systems are situated.
+PHASE adapts [System Theoretic Process Analysis (STPA)](https://psas.scripts.mit.edu/home/get_file.php?name=STPA_handbook.pdf), a system safety hazard analysis method developed by Nancy Leveson and John Thomas, for AI systems. It supports system-level hazard analysis by helping analysts examine not only models and datasets, but also the broader development and operation processes in which AI systems are situated.
 
 <div class="button-row">
   <a class="button" href="{{ '/assets/paper.pdf' | relative_url }}" target="_blank">Read the Paper</a>
