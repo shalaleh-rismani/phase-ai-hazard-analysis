@@ -19,6 +19,7 @@ AJung Moon, Associate Professor, McGill University, Montreal, Canada
 
 **PHASE** is a guideline for applying **System Theoretic Process Analysis (STPA)** to Artificial Intelligence systems.
 
+PHASE adapts these STPA steps to address AI-specific challenges such as model opacity, autonomy, capability uncertainty, and output complexity.
 It supports system-level hazard analysis by helping analysts examine not only models and datasets, but also the broader development and operation processes in which AI systems are situated.
 
 <div class="button-row">
@@ -73,16 +74,6 @@ This project includes:
 
 ---
 
-## PHASE in Four Steps
-
-1. **Identify the purpose of the analysis**
-2. **Create control diagrams**
-3. **Identify unsafe control actions**
-4. **Identify loss scenarios**
-
-PHASE adapts these STPA steps to address AI-specific challenges such as model opacity, autonomy, capability uncertainty, and output complexity.
-
----
 
 ## Citation
 
