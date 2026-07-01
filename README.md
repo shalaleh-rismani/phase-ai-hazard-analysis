@@ -1,2 +1,21 @@
-# phase-ai-hazard-analysis
-Project website and resources for PHASE, a process-oriented hazard analysis guideline that adapts STPA to identify system-level hazards in AI systems across linear regression, reinforcement learning, and generative AI case studies.
+# PHASE: Process-oriented Hazard Analysis for AI Systems
+
+This repository hosts the project website for PHASE, a guideline for applying System Theoretic Process Analysis (STPA) to AI systems.
+
+## Website
+
+The GitHub Pages site includes:
+
+- the paper
+- the PHASE process
+- three case studies
+- templates
+- citation information
+
+## Local preview
+
+To preview locally with Jekyll:
+
+```bash
+bundle install
+bundle exec jekyll serve
